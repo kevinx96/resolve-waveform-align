@@ -1,0 +1,4 @@
+interface:
+  display_name: "达芬奇串烧波形对齐"
+  short_description: "按串烧波形匹配并拆分原曲视频，自动识别跳段，无需示范也能对齐"
+  default_prompt: "使用 $resolve-waveform-align 将工程关联的原视频按串烧音频对齐，自动识别跳段并交替排布轨道；无需示范，允许普通手工对齐程度的小幅误差。"
